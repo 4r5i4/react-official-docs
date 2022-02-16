@@ -1,0 +1,1 @@
+## This folder will serve to contain different components that can be used by any application.

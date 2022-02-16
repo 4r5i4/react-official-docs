@@ -1,0 +1,1 @@
+## This folder will serve to contain different applications throughout. All applications can and will be loaded into App.js
